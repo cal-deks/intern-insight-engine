@@ -10,7 +10,7 @@ Track your applications, stages, response rates, and fit scores — all in one c
 
 ## 🔗 Live Demo
 
-Coming soon...
+Coming soon..
 
 ---
 
